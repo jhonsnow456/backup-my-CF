@@ -134,7 +134,7 @@ language=metaInfo[3].strip()
 #saving fileName with appropriate extension
 
 if(language.find('C++')):
-    fileExtension = 'cpp'
+    fileExtension = 'txt'
 elif(language.find('Py')):
      fileExtension = 'py'
 elif(language.find('Java')):
